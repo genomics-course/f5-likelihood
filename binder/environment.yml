@@ -1,0 +1,8 @@
+name: session-5
+channels: 
+  - eaton-lab
+dependencies:
+  - python
+  - toytree
+  - scipy
+
